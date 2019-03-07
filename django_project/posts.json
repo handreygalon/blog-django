@@ -1,0 +1,122 @@
+[
+    {
+        "title": "My Updated Post",
+        "content": "My first updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "A Second Post",
+        "content": "This is a post from a different user...",
+        "user_id": 2
+    },
+    {
+        "title": "Top 5 Programming Lanaguages",
+        "content": "Python, Java, C#, C, C++",
+        "user_id": 1
+    },
+    {
+        "title": "Sublime Text Tips and Tricks",
+        "content": "Or you can use Atom",
+        "user_id": 1
+    },
+    {
+        "title": "Best Python IDEs",
+        "content": "Sublime or Atom",
+        "user_id": 1
+    },
+    {
+        "title": "Flask vs Django - Which Is Better?",
+        "content": "Django, of course!",
+        "user_id": 2
+    },
+    {
+        "title": "You Won't Believe These Clickbait Titles!",
+        "content": "I believe.",
+        "user_id": 2
+    },
+    {
+        "title": "These Beers Will Improve Your Programming",
+        "content": "Maybe.",
+        "user_id": 1
+    },
+    {
+        "title": "List of PyCon 2018 Talks",
+        "content": "TODO.",
+        "user_id": 1
+    },
+    {
+        "title": "How Dogs in the Workplace Boosts Productivity",
+        "content": "Au au.",
+        "user_id": 1
+    },
+    {
+        "title": "The Best Programming Podcasts",
+        "content": "I do not know.",
+        "user_id": 1
+    },
+    {
+        "title": "Tips for Public Speaking",
+        "content": "Just do it.",
+        "user_id": 2
+    },
+    {
+        "title": "Best Programmers Throughout History",
+        "content": "Searching.",
+        "user_id": 2
+    },
+    {
+        "title": "How To Create A YouTube Channel",
+        "content": "Google it!",
+        "user_id": 2
+    },
+    {
+        "title": "How I Record My Videos",
+        "content": "With a tekpix.",
+        "user_id": 1
+    },
+    {
+        "title": "Python and Physics",
+        "content": "How?.",
+        "user_id": 1
+    },
+    {
+        "title": "Just A Few More Healines Should Do It",
+        "content": "Go sleep.",
+        "user_id": 1
+    },
+    {
+        "title": "Music To Listen To While Coding",
+        "content": "Rock baby.",
+        "user_id": 1
+    },
+    {
+        "title": "5 Tips for Writing Catchy Headlines",
+        "content": "If it work, it is ok.",
+        "user_id": 2
+    },
+    {
+        "title": "The Rise of Data Science",
+        "content": "Per omittam placerat at. Eius aeque ei mei. Usu ex partiendo salutandi. Pro illud placerat molestiae ex, habeo vidisse voluptatum cu vel, efficiendi accommodare eum ea! Ne has case minimum facilisis, pertinax efficiendi eu vel!\r\n\r\nEt movet semper assueverit his. Mei at liber vitae. Vix et periculis definiebas, vero falli.",
+        "user_id": 2
+    },
+    {
+        "title": "Best Videos For Learning Python",
+        "content": "Corey Schafer.",
+        "user_id": 1
+    },
+    {
+        "title": "Top 10 Python Tips and Tricks",
+        "content": "Ask to Corey.",
+        "user_id": 1
+    },
+    {
+        "title": "Top 5 YouTube Channels For Learning Programming",
+        "content": "Corey Schafer and others.",
+        "user_id": 2
+    },
+    {
+        "title": "My Latest Updated Post",
+        "content": "Finally.",
+        "user_id": 1
+    }
+]
